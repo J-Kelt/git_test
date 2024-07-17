@@ -1,2 +1,4 @@
 Hello, Odin!
 Adding more text here. Hi GitHub!
+
+Testing new git commit withing VSCode.
